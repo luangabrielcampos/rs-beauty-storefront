@@ -1,0 +1,17 @@
+node_modules/
+dist/
+
+.env
+.env.*
+!.env.example
+
+*.log
+*.zip
+audit-report.json
+
+.DS_Store
+.vscode/
+
+# Local backup files
+**/*BACKUP*.jsx
+**/*ANTES*.jsx
