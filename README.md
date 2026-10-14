@@ -1,16 +1,59 @@
-# React + Vite
+# RS BEAUTY™ Storefront
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Responsive e-commerce storefront developed with React and JavaScript, focused on modern UI, mobile-first design and a smooth shopping experience.
 
-Currently, two official plugins are available:
+## 🚀 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+RS BEAUTY™ is a beauty e-commerce project created to practice and demonstrate front-end development skills through a real-world storefront.
 
-## React Compiler
+The project includes product pages, responsive navigation, shopping cart functionality, product variants, mobile layouts and integration with Wix Headless services.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies
 
-## Expanding the ESLint configuration
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Wix Headless
+- Git / GitHub
+- Responsive Web Design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Main Features
+
+- Responsive mobile-first interface
+- Product catalog
+- Product detail pages
+- Shopping cart
+- Product variant selection
+- Quantity controls
+- Responsive navigation
+- Mobile menu
+- E-commerce UI components
+- Wix Headless integration
+- Environment variable configuration
+
+## 📱 Responsive Design
+
+The storefront was developed to work across desktop and mobile devices, with special attention to usability, layout consistency and navigation.
+
+## 🔐 Environment Variables
+
+This project uses environment variables for Wix configuration.
+
+Create a local `.env` file based on the `.env.example` file and provide your own credentials.
+
+Sensitive credentials are not included in this repository.
+
+## 👨‍💻 Developer
+
+**Luan Gabriel Campos de Britto**
+
+Front-End Developer focused on React, JavaScript and responsive web development.
+
+LinkedIn:  
+https://www.linkedin.com/in/luangabrielcamposdebritto
+
+## 📌 Status
+
+Project under continuous development and improvement.
