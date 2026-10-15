@@ -3,6 +3,18 @@
 Responsive e-commerce storefront developed with React and JavaScript, focused on modern UI, mobile-first design and a smooth shopping experience.
 
 ## 🚀 Project Overview
+## 📸 Project Preview
+
+### Desktop
+![RS BEAUTY Desktop](docs/screenshots/home-desktop.png)
+
+### Product Page
+![RS BEAUTY Product Page](docs/screenshots/product-page.png)
+
+### Mobile
+<p align="center">
+  <img src="docs/screenshots/home-mobile.png" width="320" alt="RS BEAUTY Mobile">
+</p>
 
 RS BEAUTY™ is a beauty e-commerce project created to practice and demonstrate front-end development skills through a real-world storefront.
 
